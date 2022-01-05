@@ -1,8 +1,7 @@
 body{
     margin: 0%;
     font-family: 'Open Sans', sans-serif;
-    background-image: url(imag/top-banner.png);
-    background-repeat: no-repeat;
+    
 }
 h1{
     font-size: 50px;
@@ -81,11 +80,16 @@ section{
     }
     .box-img{
         width: 65%;
+        padding: 20px;
     }
     .icon{
         padding: 140px;
+        width: 10%;
+        
+        
+
     }
-    .LASTET{
+    .COLOER{
         color: chocolate;
     }
     
